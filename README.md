@@ -1,5 +1,7 @@
 # Invoice Creator
 
+![Demo](./demo.png)
+
 A simple web app that creates beautiful, vintage-style invoices with an authentic paper texture—like the ones from old receipt printers.
 
 ## What it does
@@ -57,3 +59,4 @@ MIT — feel free to use this for personal or commercial projects.
 ---
 
 Made by [Adarsh Jha](https://adarshjha.com)
+
